@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dscer
+- 👀 I’m interested in automation and data science methods and aplying them to modeling and simulation engineering
+- 🌱 I’m currently learning master's level data science curriculum 
+- 💞️ I’m looking to collaborate on Natural Lanugage Processing and Computer Vision projects
+- 📫 How to reach me ...
